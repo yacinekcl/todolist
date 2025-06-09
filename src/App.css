@@ -28,6 +28,10 @@ button {
   border-radius: 4px;
 }
 
+button:hover {
+  background-color: #7ece7e;
+}
+
 .task-list {
   list-style: none;
   padding: 0;
@@ -49,4 +53,8 @@ button {
 .task-list button {
   background-color: red;
   color: white;
+}
+
+.task-list button:hover {
+  background-color: rgb(228, 50, 50);
 }
