@@ -58,3 +58,7 @@ button:hover {
 .task-list button:hover {
   background-color: rgb(228, 50, 50);
 }
+
+span {
+  cursor: pointer;
+}
